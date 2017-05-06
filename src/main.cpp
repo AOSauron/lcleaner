@@ -9,20 +9,13 @@
 #include <gtkmm/button.h>
 #include <gtkmm/stock.h>
 
+#include "../include/mainwindow.h"
+
 int main(int argc, char* argv[]) {
 
     Gtk::Main app(argc, argv);
-    Gtk::Window mainwin;
-    Gtk::Button button("Launch clean");
-    Gtk::Button cancelButton(Gtk::Stock::CANCEL);
 
-    mainwin.set_border_width(10);
-    mainwin.set_title("LCleaner");
-    mainwin.resize(800,600);
-    mainwin.set_position(Gtk::WIN_POS_CENTER);
-
-    mainwin.add(button);
-    button.show();
+    MainWindow mainwin;
 
     Gtk::Main::run(mainwin);
 
