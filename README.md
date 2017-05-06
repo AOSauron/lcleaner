@@ -6,8 +6,8 @@
 
 ### Authors
 
-  - GARCIA Guillaume : [AOSauron](https://github.com/AOSauron) @HardLifeTeam
-  - FORTIN Pierre : [AODeltaB](https://github.com/AODeltaB) @HardLifeTeam
+  - GARCIA Guillaume : [AOSauron](https://github.com/AOSauron) @HardLifeDev/hardlifeteam @AOH-DevTeam/aoh-team-one
+  - FORTIN Pierre : [AODeltaB](https://github.com/AODeltaB) @HardLifeDev/hardlifeteam @AOH-DevTeam/aoh-team-one
 
 ### Supported linux distributions
 
