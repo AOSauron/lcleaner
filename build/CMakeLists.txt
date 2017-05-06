@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6)
 
-project(Fenetre)
+project(lcleaner)
 
 find_package(PkgConfig)
 pkg_check_modules(GTKMM gtkmm-3.0)
@@ -19,15 +19,15 @@ include_directories(
 file(
     GLOB_RECURSE
     source_files
-    src/*
+    ../src/*
 )
 
 add_executable(
-    Fenetre
+    lcleaner
     ${source_files}
 )
 
 target_link_libraries(
-    Fenetre
+    lcleaner
     ${GTKMM_LIBRARIES}
 )

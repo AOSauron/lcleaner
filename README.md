@@ -24,15 +24,15 @@ Lower versions should be supported too, but haven't been tested yet.
 
 ### Building the sources
 
-###### Recommended way with **cmake**
+##### Recommended way with **cmake**
 
   - Go to build folder : `cd build/`
-  - Prepare the building : `cmake ..`
+  - Prepare the building : `cmake .`
   - Build the sources : `make`
   - Run the test sequence before installing : `make test`
   - You can install the tool with : `make install`
 
-###### Build with the original makefile
+##### Build with the original makefile
 
   - Build the sources : `make`
   - Run test sequence : `make test`
