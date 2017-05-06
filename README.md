@@ -43,4 +43,6 @@ Lower versions should be supported too, but haven't been tested yet.
   - If you have installed the software, you can launch it by typing the command `lcleaner` in your console.
   - If not, go to your building folder (depends on the way you built the sources), then launch `./lcleaner`.
 
-### Examples
+### Changelog
+
+  - See the details of our modifications in the [changelog](docs/CHANGELOG.md).
