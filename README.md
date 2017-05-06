@@ -1,6 +1,6 @@
 # lcleaner
 
-**LCleaner - A free alternative of CCleaner for Linux, made for managing and cleaning your linux distro.**
+**LCleaner - A free alternative to CCleaner, made for managing and cleaning your Linux distro.**
 
 *Open source project, light tool for linux*
 
@@ -13,6 +13,7 @@
 
   - *Ubuntu 14.04* or more
   - *Debian 8* or more
+
 Lower versions should be supported too, but haven't been tested yet.
 
 ### Dependencies
